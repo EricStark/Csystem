@@ -1,6 +1,4 @@
 ## Welcome to Eric's GitHub Pages
-## Welcome to Eric's GitHub Pages
-
 #include<stdio.h>//宏定义以及函数的输入输出头文件
 #include<string.h>//对象的动态申请strlen头文件
 #include<windows.h>//系统操作函数头文件
